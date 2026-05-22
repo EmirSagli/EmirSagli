@@ -1,8 +1,14 @@
 # Hi 👋, I'm Emir Sağlı
 
-A passionate Software Engineering student focused on game development and procedural content generation.
+A passionate Software Engineering student focused on game development, procedural content generation, and interactive systems.
 
 ---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/Emir Sağlı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/linked-in-alt.svg" alt="Emir Sağlı LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/EmirSagli'" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/core/icons/social/instagram.svg" alt="Emir Sağlı Instagram" height="30" width="40" /></a>
+</p>
 
 ### 🛠️ Languages and Tools:
 
@@ -31,5 +37,5 @@ A passionate Software Engineering student focused on game development and proced
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirSagli&show_icons=true&theme=tokyonight" alt="Emir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight" alt="Emir's GitHub Stats" />
 </p>
